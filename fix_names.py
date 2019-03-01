@@ -1,7 +1,7 @@
 import os
 from glob import glob
 
-proj_dir = "C:\\Users\\trist\\OneDrive\\Pulpit\\togglesneak1710\\src\\main\\java\\deez\\togglesneak"
+proj_dir = ""
 
 def findnth(string, substring, n):
     parts = string.split(substring, n + 1)
